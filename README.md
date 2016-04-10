@@ -5,3 +5,4 @@ The collection of solutions from various Online Judge websites.
 - [LeetCode](https://github.com/EdisonCodeKeeper/leet-code)
 - [CodeForces](https://github.com/EdisonCodeKeeper/code-forces)
 - [ProjectEuler](https://github.com/EdisonCodeKeeper/project-euler)
+- [MathWorks](https://github.com/EdisonCodeKeeper/math-works)
